@@ -1,0 +1,10 @@
+C:\Users\Lenovo G50-45\source\repos\WFErrorHandling\WFErrorHandling\bin\Debug\WFErrorHandling.exe.config
+C:\Users\Lenovo G50-45\source\repos\WFErrorHandling\WFErrorHandling\bin\Debug\WFErrorHandling.exe
+C:\Users\Lenovo G50-45\source\repos\WFErrorHandling\WFErrorHandling\bin\Debug\WFErrorHandling.pdb
+C:\Users\Lenovo G50-45\source\repos\WFErrorHandling\WFErrorHandling\obj\Debug\WFErrorHandling.csprojAssemblyReference.cache
+C:\Users\Lenovo G50-45\source\repos\WFErrorHandling\WFErrorHandling\obj\Debug\WFErrorHandling.Form1.resources
+C:\Users\Lenovo G50-45\source\repos\WFErrorHandling\WFErrorHandling\obj\Debug\WFErrorHandling.Properties.Resources.resources
+C:\Users\Lenovo G50-45\source\repos\WFErrorHandling\WFErrorHandling\obj\Debug\WFErrorHandling.csproj.GenerateResource.cache
+C:\Users\Lenovo G50-45\source\repos\WFErrorHandling\WFErrorHandling\obj\Debug\WFErrorHandling.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo G50-45\source\repos\WFErrorHandling\WFErrorHandling\obj\Debug\WFErrorHandling.exe
+C:\Users\Lenovo G50-45\source\repos\WFErrorHandling\WFErrorHandling\obj\Debug\WFErrorHandling.pdb

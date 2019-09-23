@@ -1,0 +1,90 @@
+WFErrorHandling.exe Error: 0 : There's been an error captain: msg
+WFErrorHandling.exe Error: 0 : 
+------ Exception Thrown at 23.09.2019 20:24:38 -------
+Message: msg
+Stacktrace:
+   bei WFErrorHandling.Form1.<>c.<<Button1_Click>b__1_0>d.MoveNext() in C:\Users\Lenovo G50-45\source\repos\WFErrorHandling\WFErrorHandling\Form1.cs:Zeile 25.
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bei WFErrorHandling.Form1.<Button1_Click>d__1.MoveNext() in C:\Users\Lenovo G50-45\source\repos\WFErrorHandling\WFErrorHandling\Form1.cs:Zeile 23.
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.AsyncMethodBuilderCore.<>c.<ThrowAsync>b__6_0(Object state)
+\n\n
+
+WFErrorHandling.exe Error: 0 : 
+------ Exception Thrown at 23.09.2019 20:26:52 -------
+Message: msg
+Stacktrace:
+   bei WFErrorHandling.Form1.<>c.<<Button1_Click>b__1_0>d.MoveNext() in C:\Users\Lenovo G50-45\source\repos\WFErrorHandling\WFErrorHandling\Form1.cs:Zeile 25.
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bei WFErrorHandling.Form1.<Button1_Click>d__1.MoveNext() in C:\Users\Lenovo G50-45\source\repos\WFErrorHandling\WFErrorHandling\Form1.cs:Zeile 23.
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.AsyncMethodBuilderCore.<>c.<ThrowAsync>b__6_0(Object state)
+ 
+
+
+
+msg
+WFErrorHandling.exe Error: 0 : 
+------ Exception Thrown at 23.09.2019 20:27:02 -------
+Message: msg
+Stacktrace:
+   bei WFErrorHandling.Form1.<>c.<<Button1_Click>b__1_0>d.MoveNext() in C:\Users\Lenovo G50-45\source\repos\WFErrorHandling\WFErrorHandling\Form1.cs:Zeile 25.
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bei WFErrorHandling.Form1.<Button1_Click>d__1.MoveNext() in C:\Users\Lenovo G50-45\source\repos\WFErrorHandling\WFErrorHandling\Form1.cs:Zeile 23.
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.AsyncMethodBuilderCore.<>c.<ThrowAsync>b__6_0(Object state)
+ 
+
+
+
+WFErrorHandling.exe Error: 0 : 
+------ Exception Thrown at 23.09.2019 20:27:39 -------
+Message: msg
+Stacktrace:
+   bei WFErrorHandling.Form1.<>c.<<Button1_Click>b__1_0>d.MoveNext() in C:\Users\Lenovo G50-45\source\repos\WFErrorHandling\WFErrorHandling\Form1.cs:Zeile 25.
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bei WFErrorHandling.Form1.<Button1_Click>d__1.MoveNext() in C:\Users\Lenovo G50-45\source\repos\WFErrorHandling\WFErrorHandling\Form1.cs:Zeile 23.
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.AsyncMethodBuilderCore.<>c.<ThrowAsync>b__6_0(Object state)
+
+msg
+WFErrorHandling.exe Error: 0 : 
+------ Exception Thrown at 23.09.2019 20:27:55 -------
+Message: msg
+Stacktrace:
+   bei WFErrorHandling.Form1.<>c.<<Button1_Click>b__1_0>d.MoveNext() in C:\Users\Lenovo G50-45\source\repos\WFErrorHandling\WFErrorHandling\Form1.cs:Zeile 25.
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bei WFErrorHandling.Form1.<Button1_Click>d__1.MoveNext() in C:\Users\Lenovo G50-45\source\repos\WFErrorHandling\WFErrorHandling\Form1.cs:Zeile 23.
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.AsyncMethodBuilderCore.<>c.<ThrowAsync>b__6_0(Object state)
+
+msg
+Test
+WFErrorHandling.exe Error: 0 : 
+            ------ Exception Thrown at 23.09.2019 20:31:06 -------
+            Message: msg
+            Stacktrace:
+               bei WFErrorHandling.Form1.<>c.<<Button1_Click>b__1_0>d.MoveNext() in C:\Users\Lenovo G50-45\source\repos\WFErrorHandling\WFErrorHandling\Form1.cs:Zeile 25.
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bei WFErrorHandling.Form1.<Button1_Click>d__1.MoveNext() in C:\Users\Lenovo G50-45\source\repos\WFErrorHandling\WFErrorHandling\Form1.cs:Zeile 23.
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.AsyncMethodBuilderCore.<>c.<ThrowAsync>b__6_0(Object state)
+            

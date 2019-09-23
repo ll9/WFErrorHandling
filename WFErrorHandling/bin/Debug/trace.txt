@@ -1,0 +1,3 @@
+WFErrorHandling.exe Error: 0 : There's been an error captain: msg
+msg
+WFErrorHandling.exe Error: 0 : There's been an error captain: msg
